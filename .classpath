@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="subprojects/android/hackazon/src"/>
+	<classpathentry kind="src" path="subprojects/Helpdesk/src"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/converter-jackson-1.6.1.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/google-http-client-1.19.0.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/google-http-client-android-1.19.0.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/google-http-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/okhttp-1.6.0.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/okhttp-urlconnection-1.6.0.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/retrofit-1.6.1.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-1.4.14.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-cache-1.4.14.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-google-http-client-1.4.14.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-okhttp-1.4.14.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-retrofit-1.4.14.jar"/>
+	<classpathentry kind="lib" path="subprojects/android/hackazon/jars/robospice-ui-spicelist-1.4.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
